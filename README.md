@@ -2,7 +2,7 @@
 
 Ce dépôt contient mon travail réalisé dans le cadre des TP de l’UE SR2 (Systèmes et Réseaux 2), dans la Licence Informatique à l’Université Toulouse III – Paul Sabatier.
 
-## 🎯 Objectif
+##  Objectif
 L’objectif de ces TP est de développer plusieurs **protocoles de transport** fiables en **langage C**, en se basant sur une architecture réseau à 3 couches (application, transport, réseau). L'accent est mis sur la **fiabilité du transfert de données**, en intégrant des mécanismes tels que :
 - le **contrôle de flux**
 - la **détection et correction d’erreurs**
